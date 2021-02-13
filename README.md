@@ -1,11 +1,11 @@
 # valentines-day-oneshot
 
 ## Table of Contents
-1. [Setting](setting)
-1. [Character Lore](character-lore)
-    1. [King Fructose Disaccharide Sucrose III]()
-1. [Special Rules](Special-Rules)
-1. [Player Objective]()
+1. [Setting](#setting)
+1. [Character Lore](#character-lore)
+    1. [King Fructose Disaccharide Sucrose III](#king-fructose-disaccharide-sucrose-III)
+1. [Special Rules](#special-rules)
+1. [Player Objective](#player-objective)
 ## Setting
 ### Sucrose Kingdom
 The Sucrose Kingdom is one of the most financially secure kingdoms on the continent of Bajin.  It has established this by establishing dominance within the global confection market.  All companies and trade are strictly monitored and controlled by the central monarchial government.  Citizens have a strong sense of bonding and outward happiness due to the sugary nature naturally within all citizens.  They are ingrained from birth with the mentality that all sacharides are tasty, but some are more tasty than others.  This has helped unite the citizens and the monarchy due to a natural sense of community.  Anyone who openly speaks against the community is immediately ostracized.
